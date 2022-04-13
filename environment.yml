@@ -12,4 +12,5 @@ dependencies:
   - matplotlib
   - seaborn
   - folium
+  - nbgitpuller
   - plotly=5.7.0
